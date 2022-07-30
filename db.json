@@ -5,7 +5,7 @@
           "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347470803i/10284614.jpg",
           "body": "This programming book comes with great tips for both learning how to code and launching a career in tech. Although the content is mostly focused on software development, it’s just as applicable to becoming a great web developer, too.",
           "author": "Robert Martin",
-          "Thumbnail":"",
+          "url":"https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y/ref=sr_1_1?crid=16XSJAVCP7JSU&keywords=The+Clean+Coder&qid=1659173540&s=digital-text&sprefix=the+clean+coder%2Cdigital-text%2C372&sr=1-1",
           "id": "1"
         },
         {
@@ -13,14 +13,15 @@
           "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588831465l/51941365.jpg",
           "body": "If you are new to learning how to code, The Self-Taught Programmer will make your journey easier. If you started learning web development already but feel overwhelmed, this book will show you what to do next.",
           "author": "Cory Althoff",
-          "Thumbnail":"",
+          "url":"https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally-ebook/dp/B01M01YDQA/ref=sr_1_1?crid=34VICEQOFFAV5&keywords=The+Self-Taught+Programmer&qid=1659173581&s=digital-text&sprefix=the+self-taught+programmer%2Cdigital-text%2C419&sr=1-1",
           "id": "2"
         },
     {
       "title": "Coding All-in-One For Dummies",
-      "image": "https://www.ubuy.ke/productimg/?image=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9JLzQxdGJ0dUNPMC1MLl9TUzQwMF8uanBn.jpg",
+      "image": "https://m.media-amazon.com/images/I/51NNnqIR-PL.jpg",
       "body": "It’s actually nine books packed into one massive guide that covers everything from coding fundamentals to career paths to learning in-demand programming languages from scratch",
       "author": "Nikhil Abraham et al.",
+      "url": "https://www.amazon.com/Coding-All-One-Dummies-Computers-ebook/dp/B06ZZDPCL3/ref=sr_1_1?crid=3FAGGE0GOJGCR&keywords=Coding+All-in-One+For+Dummies&qid=1659173663&s=digital-text&sprefix=coding+all-in-one+for+dummies%2Cdigital-text%2C456&sr=1-1", 
       "id": 3
     },
     {
@@ -28,7 +29,7 @@
       "image": "https://images-na.ssl-images-amazon.com/images/I/41tbtuCO0-L._SX397_BO1,204,203,200_.jpg",
       "body": "Learning Web Design is an all-in-one beginner’s web development book for anyone who is completely new to tech and wants to build their own websites from scratch. You will start with the fundamentals of how the WWW and websites work. The following chapters build on that foundation, and by the end of the book you will know how to use HTML, CSS, and JavaScript to build a responsive web page.",
       "author": "Jennifer Niederst Robbins",
-      "Thumbnail": "",
+      "url": "https://www.amazon.com/s?k=Learning+Web+Design%3A+A+Beginner%E2%80%99s+Guide&i=digital-text&crid=2Y34KJHYIPXI0&sprefix=learning+web+design+a+beginner+s+guide%2Cdigital-text%2C391&ref=nb_sb_noss",
       "id": 4
     }, 
     {
@@ -36,7 +37,7 @@
     "image": "https://media.wiley.com/product_data/coverImage300/42/11188716/1118871642.jpg",
     "body": "Excellent starting point for learning HTML and CSS. Written for readers with no experience, easy to follow. Covers both the basics as well as more advanced topics, and responsive design.",
     "author": "Jon Duckett",
-    "Thumbnail":"",
+    "url":"https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189",
     "id": "5"
   },
   {
@@ -44,6 +45,7 @@
       "image": "https://m.media-amazon.com/images/I/51CRm0BBiAL.jpg",
       "body": "This HTML and CSS guide is perfect for absolute beginners who want to learn these languages fast and build their first HTML/CSS web pages quickly.",
       "author": "Mark Myers",
+      "url":"https://www.amazon.com/Smarter-Way-Learn-HTML-CSS-ebook/dp/B00ULX5FT2/ref=sr_1_1?crid=3IWXK4AG4BO86&keywords=A+Smarter+Way+to+Learn+HTML+%26+CSS&qid=1659173501&s=digital-text&sprefix=a+smarter+way+to+learn+html+%26+css%2Cdigital-text%2C442&sr=1-1",
       "id": "6"
     },
     {
@@ -51,6 +53,7 @@
       "image": "https://images-na.ssl-images-amazon.com/images/I/61uLTiayGgL.jpg",
       "body": "If you feel like HTML and CSS are too difficult to learn, this quickstart guide shows you an easier, more simple way to master both languages. You will learn how HTML and CSS work, what you can build with them, and how to design responsive web pages. Also, you’ll set up your working environment, learn how version control works with Git, and get an introduction to Bootstrap",
       "author": "David DuRocher",
+      "url":"https://www.amazon.com/HTML-CSS-QuickStart-Guide-Fundamentals-ebook/dp/B08TT68MQG/ref=sr_1_1?crid=3LOVYB0UT8X7M&keywords=HTML+%26+CSS+QuickStart+Guide&qid=1659173437&s=digital-text&sprefix=html+%26+css+quickstart+guide%2Cdigital-text%2C409&sr=1-1",
       "id": "7"
     },
     {
@@ -58,6 +61,7 @@
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605764354l/55940635._SX318_.jpg",
       "body": "The book starts with the absolute fundamentals of computer programming to get you in the right mindset. You will then learn the basic JavaScript syntax to get comfortable with the language. Later in the book, you’ll go through helpful exercises (with solutions) and learn how to create a real-life website with HTML, CSS, and JavaScript from scratch.",
       "author": "Code Quickly",
+      "url":"https://www.amazon.com/Learn-JavaScript-Quickly-Programming-Hands-ebook/dp/B08N5TGRZ1/ref=sr_1_1?crid=COMOMI4CDW84&keywords=Learn+JavaScript+Quickly&qid=1659173396&s=digital-text&sprefix=eloquent+javascript%2Cdigital-text%2C338&sr=1-1",
       "id": "8"
     },
     {
@@ -65,6 +69,7 @@
       "image": "https://eloquentjavascript.net/img/cover.jpg",
       "body": "Eloquent JavaScript helps you dive into writing code from the get-go, even if you are completely new to web development and coding. Focussing entirely on JS, you will learn how to write clean and effective code throughout the book.",
       "author": "Marijn Haverbeke",
+      "url":"https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming-ebook/dp/B07C96Q217/ref=sr_1_1?crid=IDS7VMI1E3QC&keywords=eloquent+javascript&qid=1659173351&s=digital-text&sprefix=eloquent%2Cdigital-text%2C565&sr=1-1",
       "id": "9"
     },
     {
@@ -72,6 +77,7 @@
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386626820l/19319366.jpg",
       "body": "This beginner’s JavaScript guide is all about understanding how this language truly works, and how you can apply it to your own real-world web projects. You will go through the theory parts very quickly, and spend most of your time practising and learning by doing. If you prefer hands-on exercises to monotone reading, this book is perfect for you.",
       "author": "Mark Myers",
+      "url":"https://www.amazon.com/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C/ref=pd_sim_351_4",
       "id": "10"
     }
 
